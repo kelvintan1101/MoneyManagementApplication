@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/MoneyManagementApplication/app/src/main/res/layout/activity_monthly_analytic.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_account.xml" value="0.22861842105263158" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_analytic.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_budget.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_currency_rate.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_daily_analytic.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_history.xml" value="0.22861842105263158" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_login.xml" value="0.1909722222222222" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_monthly_analytic.xml" value="0.12796052631578947" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_registration.xml" value="0.1909722222222222" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_start_up_screen.xml" value="0.1909722222222222" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_today_spending.xml" value="0.1" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_week_spending.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/activity_weekly_analytic.xml" value="0.25" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/backup.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/dialog_searchable_spinner.xml" value="0.1" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/input_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/retreive_layout.xml" value="0.1" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/spending_item_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/test.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/testing.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/layout/update_layout.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/kelvi/AndroidStudioProjects/MoneyManagementApplication/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

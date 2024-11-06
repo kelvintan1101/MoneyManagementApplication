@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554028956339",
+    "firebase_url": "https://money-management-app-ad9b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "money-management-app-ad9b7",
+    "storage_bucket": "money-management-app-ad9b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554028956339:android:1a4e7c448871d1fde28ec6",
+        "android_client_info": {
+          "package_name": "com.example.moneymanagementapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554028956339-smgdp3dqcimhrjb56mjdbi3ob4s79msb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhkpx85vwc1xCywy0LE-qKbgojWaaCvZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554028956339-smgdp3dqcimhrjb56mjdbi3ob4s79msb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

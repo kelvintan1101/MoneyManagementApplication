@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BudgetActivity"
+    android:orientation="vertical"
+    android:background="@drawable/bg">
+
+
+
+    <LinearLayout
+        android:layout_width="385dp"
+        android:layout_height="175dp"
+        android:orientation="vertical"
+        android:background="@drawable/card_view"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total Spending on"
+            android:textSize="22dp"
+            android:textColor="#fff"
+            android:paddingLeft="10dp"
+            android:paddingTop="40dp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/historyDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="02/22/2022"
+            android:textSize="22dp"
+            android:textColor="#fff"
+            android:paddingLeft="40dp"
+            android:paddingTop="5dp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/historySpending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RM 0.00"
+            android:textSize="35dp"
+            android:textColor="#fff"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-black"
+            android:paddingLeft="40dp"
+            android:paddingTop="5dp"
+            android:visibility="gone" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:paddingTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:textColor="#fff"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:text="Search"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/recyclerViewHistory"
+            android:visibility="gone"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
